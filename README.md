@@ -6,4 +6,5 @@ This repo contains a jupyter notebook file showing complete implementation, samp
 In addition to the implementation, each design choice is explained and well documented in the context of the problem.
 
 Thanks,
-- Kay
+
+\- Kay
