@@ -32,6 +32,10 @@ The project requires [Jupyter Notebook](https://jupyter.org/) to *modify*.
 
 Python Version: `<= 3.11`
 
+See requirements.txt for full requirement list.
+
+---
+
 If used as "inspiration," please link back to this repo.
 
 Thanks,
